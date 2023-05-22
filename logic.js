@@ -51,3 +51,5 @@ function atualizaMochila () {
     listaAventureiro.replaceChildren();
     escreverListaAventureiro();
 }
+
+/*teste aqui*/
