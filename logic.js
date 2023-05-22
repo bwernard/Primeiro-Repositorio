@@ -51,3 +51,5 @@ function atualizaMochila () {
     listaAventureiro.replaceChildren();
     escreverListaAventureiro();
 }
+
+//teste para verificar branch novo uwu
