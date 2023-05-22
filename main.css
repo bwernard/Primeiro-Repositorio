@@ -1,0 +1,13 @@
+.BuyButton {
+    border-radius: 100%;
+    position: absolute;
+    left: 120px;
+    background-color: rgb(208, 255, 0);
+}
+
+.SellButton {
+    border-radius: 100%;
+    position: absolute;
+    left: 120px;
+    background-color: rgb(255, 0, 0);
+}
