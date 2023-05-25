@@ -1,11 +1,44 @@
+body {
+    background-color: black;
+}
+
 .BuyButton {
-    position: absolute;
-    left: 200px;
-    background-color: rgb(208, 255, 0);
+    position: relative;
+    background-color: silver;
 }
 
 .SellButton {
     position: absolute;
-    left: 200px;
+    left: 300px;
     background-color: rgb(255, 0, 0);
+}
+
+table {
+    width: 100%;
+    background-color: #df8106;
+}
+
+.bulkClass {
+    left: 200px;
+}
+
+caption {
+    text-align:center;
+}
+
+td, th {
+    border-style: solid;
+    border-color: #df8106;
+    background-color: white;
+}
+
+th {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: left;
+}
+
+h1 {
+    border-width: 1px;
+    color: white;
 }
