@@ -1,3 +1,5 @@
+import { GeneralItem } from "./classesManagement.js";
+
 export let listaDeTodosOsItens = {
     teste1: new GeneralItem("weapon", "Longsword", "1", 100),
     teste2: new GeneralItem("armor", "Leather Armor", "1", 200),
