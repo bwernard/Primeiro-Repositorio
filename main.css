@@ -8,8 +8,7 @@ body {
 }
 
 .SellButton {
-    position: absolute;
-    left: 300px;
+    position: relative;
     background-color: rgb(255, 0, 0);
 }
 
